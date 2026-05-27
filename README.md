@@ -1,5 +1,5 @@
-# README.md
-# 🌱 Tellurium — Classificador Inteligente de Fertilidade do Solo
+# Solo | README.md
+# Tellurium — Classificador Inteligente de Fertilidade do Solo
 
 O Tellurium é uma aplicação desenvolvida em Python e Streamlit para análise inteligente da fertilidade do solo, recomendação de manejo corretivo e suporte à tomada de decisão agrícola.
 
